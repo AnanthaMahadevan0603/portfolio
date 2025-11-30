@@ -130,7 +130,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="font-semibold">Thiruthuraipoondi, Tamil Nadu</p>
+                  <p className="font-semibold">Thiru utirakosamangai, Tamil Nadu</p>
                 </div>
               </motion.div>
             </div>
